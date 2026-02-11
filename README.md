@@ -71,3 +71,9 @@ npx react-native run-android
 
 🛡️ Security Note
 This project uses .gitignore to prevent the .env file and android/local.properties from being leaked. Never commit your Google API Key to a public repository.
+
+## 📱 App Preview
+
+| Home Screen | Nearby Restaurants |
+| :---: | :---: |
+| ![SS1](./screenshots/ss1.jpg) | ![SS2](./screenshots/ss2.jpg) | ![SS3](./screenshots/ss3.jpg) | ![SS4](./screenshots/ss4.jpg) | ![App Walkthrough](./screenshots/sr.mp4)
