@@ -74,6 +74,4 @@ This project uses .gitignore to prevent the .env file and android/local.properti
 
 ## 📱 App Preview
 
-| Home Screen | Nearby Restaurants |
-| :---: | :---: |
 | ![SS1](./screenshots/ss1.jpg) | ![SS2](./screenshots/ss2.jpg) | ![SS3](./screenshots/ss3.jpg) | ![SS4](./screenshots/ss4.jpg) | ![App Walkthrough](./screenshots/sr.mp4)
